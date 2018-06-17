@@ -1,5 +1,5 @@
 {
   "project_name": "cldct-vivo",
   "package": "de.codecentric.clouduct.demo",
-  "package_path": "{{ cookiecutter.package_path|replace('.', '/') }}"
+  "package_path": "{{ cookiecutter.package|replace('.', '/') }}"
 }
